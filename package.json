@@ -1,0 +1,15 @@
+{
+  "name": "spotify_touch_button",
+  "version": "1.0.0",
+  "description": "",
+  "main": "spotify_touch_button.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "serialport": "^7.0.2",
+    "spotify-node-applescript": "^1.1.1"
+  }
+}
